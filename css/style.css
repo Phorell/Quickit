@@ -2991,7 +2991,7 @@ body .white {
             box-shadow: -10px -10px 0px 0px rgba(0, 0, 0, 0.05), 10px 10px 0px 0px rgba(0, 0, 0, 0.05);
   }
 
-  .graphs__image img:last-child {
+  .image-graphs__mobile {
     display: none;
   }
 }
@@ -3586,7 +3586,7 @@ body .white {
             box-shadow: 10px 10px 80px 0px rgba(31, 32, 37, 0.15);
   }
 
-  .graphs__image img:first-child {
+  .image-graphs__pc {
     display: none;
   }
 
